@@ -4,7 +4,7 @@ Public GitHub Pages site for the Trail Ta Bai angel / investor demo teaser.
 
 **Live URL:** https://ccsavvy.github.io/trail-ta-bai-teaser/
 
-Cinematic ~78s auto-play pitch matching the Trail Ta Bai Android MVP (forest green brand, Visayas trails & camps).
+Cinematic ~78s auto-play pitch matching the Trail Ta Bai Android MVP (forest green brand, Visayas trails & camps). Responsive for phone, tablet, and desktop.
 
 Published by **CCSavvy Studios** (LumaGad Tech creative label).
 
